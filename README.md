@@ -2,29 +2,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
-<br/>
-
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack JavaScript Developer 🚀 from Costa Rica Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
 <br/>  
@@ -44,8 +23,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
+- 📫 How to reach me: joanvasquezalvarado@gmail.com
+
 
 ### 🛠️ Languages and Tools:
 
@@ -79,7 +58,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-JoanVasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joanvasquez)](www.linkedin.com/in/joanvasquez)
 or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
 
 <!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
@@ -92,3 +71,4 @@ Credit: [aman-atg](https://github.com/aman-atg)
 
 Last Edited on: 19/11/2020
 
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
