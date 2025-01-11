@@ -64,4 +64,5 @@ or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c
 
 ❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056)
 
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
