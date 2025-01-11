@@ -62,6 +62,6 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=joanvasquezalvarado@gmail.com)](mailto:joanvasquezalvarado@gmail.com)
 
 
-❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/85198056)
+❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056)
 
 
