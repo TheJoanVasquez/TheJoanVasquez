@@ -3,15 +3,16 @@
 <h1 align="center"><b> What´s Up!! I'm Joán Vásquez  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
-
+I am a passionate FullStack JavaScript Developer 🚀 from Costa Rica!
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from Costa Rica Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+Always learning something new!
+<br/>
+I have experience in designing and developing websites as well as building a program that a client needs, I have also created high-quality user interfaces.
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+I have constantly trained, which has allowed me to develop solid knowledge in the area.
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+I am able to work💸 independently or in a team❤️, always with a positive attitude, discipline, leadership and a great willingness to learn..
 </p>
 
 
@@ -19,18 +20,14 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working and study at the Universidad Latina 
+- 👨🏽‍💻 I’m currently working and study at the U Latina 
 - 🌱 I’m currently learning for full Stack web developer. I am interested in new challenges and open to contributing my skills, knowledge, and expertise to projects that help me grow both personally and professionally
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
+
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
+
 - 🎿 Hobbies other than coding : I like to travel and see new places, I like to play on the PC, I love to drive in my car in an afternoon without a planned route, I like to listen to music, I can listen to several types of music but my favorite band is Linkin Park. 
 
-Puedes ingresar a mi perfil para que revises mis canciones en [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)](https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)
-
-
-- 📫 How to reach me: joanvasquezalvarado@gmail.com
-
+You can enter my profile to check out my songs at [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)](https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)
 
 
 
@@ -80,7 +77,10 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=joanvasquezalvarado@gmail.com)](mailto:joanvasquezalvarado@gmail.com)
 
 
-❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056)
+❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/walterjoan.vasquesalvarado/)](https://www.facebook.com/walterjoan.vasquesalvarado/)
+
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/TheJoanVasquez/count.svg)
 
