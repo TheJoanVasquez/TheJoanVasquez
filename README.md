@@ -37,7 +37,6 @@ You can enter my profile to check out my songs at [![Spotify Badge](https://img.
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
-#
 
 
 ### 🛠️ Languages and Tools:
@@ -77,7 +76,8 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=joanvasquezalvarado@gmail.com)](mailto:joanvasquezalvarado@gmail.com)
 
 
-❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/walterjoan.vasquesalvarado/)](https://www.facebook.com/walterjoan.vasquesalvarado/)
+❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/walterjoan.vasquesalvarado/)](https://www.facebook.com/walterjoan.vasquesalvarado/) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/joan141)](https://discord.gg/joan141)
+
 
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
