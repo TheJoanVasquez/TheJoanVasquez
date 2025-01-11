@@ -81,6 +81,8 @@ or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c
 
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/TheJoanVasquez/count.svg)
+
+<br/>   Thanks for visiting me, this is your ranking of people who have visited me :heart:
+![VisitorCount](https://profile-counter.glitch.me/TheJoanVasquez/count.svg) </p>
+
 
