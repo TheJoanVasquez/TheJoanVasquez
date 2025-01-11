@@ -72,8 +72,7 @@ You can enter my profile to check out my songs at [![Spotify Badge](https://img.
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-JoanVasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joanvasquez)](www.linkedin.com/in/joanvasquez)
-or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=joanvasquezalvarado@gmail.com)](mailto:joanvasquezalvarado@gmail.com)
+❤️ Offer work : Send the offer on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/joanvasquez)](www.linkedin.com/in/joanvasquez) or [![Gmail Badge](https://img.shields.io/badge/-joanvasquezalvarado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=joanvasquezalvarado@gmail.com)](mailto:joanvasquezalvarado@gmail.com)
 
 
 ❤️ Connect with me : [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-Green?style=flat-square&logo=WhatsApp&logoColor=green&link=https://wa.me/+50685198056)](https://wa.me/+50685198056) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/walterjoan.vasquesalvarado/)](https://www.facebook.com/walterjoan.vasquesalvarado/) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/joan141)](https://discord.com/users/joan141)
