@@ -31,13 +31,6 @@ You can enter my profile to check out my songs at [![Spotify Badge](https://img.
 
 
 
-<p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
-</p>
-
-
 
 ### 🛠️ Languages and Tools:
 
