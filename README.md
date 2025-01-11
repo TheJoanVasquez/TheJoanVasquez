@@ -19,12 +19,16 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
+- 👨🏽‍💻 I’m currently working and study at the Universidad Latina 
+- 🌱 I’m currently learning for full Stack web developer. I am interested in new challenges and open to contributing my skills, knowledge, and expertise to projects that help me grow both personally and professionally
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 🎿 Hobbies other than coding : I like to travel and see new places, I like to play on the PC, I love to drive in my car in an afternoon without a planned route, I like to listen to music, I can listen to several types of music but my favorite band is Linkin Park. 
+
+Puedes ingresar a mi perfil para que revises mis canciones en [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)](https://open.spotify.com/user/22dup6okv6mwbmqq756r36roa?si=7f86aacad4ef4c2d)
+
+
 - 📫 How to reach me: joanvasquezalvarado@gmail.com
 
 
